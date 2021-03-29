@@ -17,3 +17,4 @@ The companies/organizations are listed in alphabetical order grouped by the phas
 | [Weibo](http://www.weibo.com/)  | [@wutong](wutong6@staff.weibo.com) | Staging | weibo deep learning platform |
 | [4Paradigm.com](http://www.4paradigm.com/)  | [@mahao](mahao@4paradigm.com) | Testing | 4Paradigm Sage EE |
 | [TencentCloud](https://cloud.tencent.com/)  | [@xieydd](chrisydxie@tencent.com) | Testing | Tencent Kubernetes Engine |
+| [XiaomiCloudml](https://www.mi.com/)  | [@wangteng5](wangteng5@xiaomi.com) | Testing | Xiaomi AI Platform |
